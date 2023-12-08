@@ -18,4 +18,7 @@
 <div>
   <img src= "https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg", title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
   <img src= "https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg", title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg", title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg", title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg", title="C#" alt="C#" width="40" height="40"/>&nbsp;
 </div>
