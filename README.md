@@ -23,3 +23,11 @@
   <img src= "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg", title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg", title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
+
+<h3>
+  🔥: My Stats :
+</h3>
+<div>
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=L1v1ngston&theme=synthwave" alt="GitHub Streak" /></a>
+
+</div>
